@@ -1,4 +1,4 @@
-<h3>Use Aliases<h3>  
+<h3>Use Aliases</h3>  
 
 Luomalla aliaksen, ei pitkien komentojen kirjoittelu ole enaan tuskaa.  
 ```
