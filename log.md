@@ -1,4 +1,4 @@
-<h3>Cherry picking</h3>  
+<h3>List commits</h3>  
 
 Voidaan listata committeja joissa esiintyy annettu merkkijono jossain tiedostossa.
 ```
