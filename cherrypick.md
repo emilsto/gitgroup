@@ -3,4 +3,4 @@
 Cherry pick komennolla voit voi valita tietyn commitin, jonka haluat kopioda omaan branchiisi  
 ```
 git cherry-pick <commit-sha>  
-```  
+```    
